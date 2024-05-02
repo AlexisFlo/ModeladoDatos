@@ -15,13 +15,11 @@
 ### franquicias **(EC)**
 - franquicia_id **(PK)**
 - nombre
-- descripcion
 
-### marca **(EC)**
+### marcas **(EC)**
 
 - marca_id **(PK)**
 - nombre
-- descripcion
 
 ## Relaciones
 
