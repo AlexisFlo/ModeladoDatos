@@ -24,8 +24,7 @@
 ## Relaciones
 
 1. Una **figura** _pertenece_ a una **franquicia**. (_1 a 1_)
-2. Una **figura** es _hecha_ por varías marcas **marca**. (_1 a N_)
-3. Una **marca** _hace_ muchas **figuras**. (_1 a N_)
+2. Muchas **figura** son _hechas_ por una marca **marca**. (_1 a N_)
 
 ## Diagramas
 
