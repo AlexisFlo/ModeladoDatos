@@ -1,0 +1,49 @@
+{
+  "coleccionables": [
+    {
+      "figura_id": "1",
+      "nombre": "Gambito", 
+      "descripcion": "Figura de acción de Gambito de la serie X-Men '97",
+      "franquicia": "Marvel Comics",
+      "marca": "Hasbro Marvel Legends",
+      "accesorios": "Bastón, carta, mano intercambiable lanzando cartas con efecto de energía",
+      "foto": "img/Gambito.png"
+    },
+    {
+      "figura_id": "2",
+      "nombre": "The Batman",
+      "descripcion": "Figura de acción de The Batman de la película 'The Batman'",
+      "franquicia": "DC Comics",
+      "marca": "McFarlane Toys",
+      "accesorios": "Batarang, base, carta de colección",
+      "foto": "img/TheBatman.png"
+    },
+    {
+      "figura_id": "3",
+      "nombre": "Oracle Red Bull Racing RB19 Checo Pérez",
+      "descripcion": "Burago Rb19 Red Bull Racing Checo Pérez Formula 1 Edición 1:43",
+      "franquicia": "Fórmula 1",
+      "marca": "Burago",
+      "accesorios": "Casco, base",
+      "foto": "img/ChecoPerezRb19.png"
+    },
+    {
+      "figura_id": "4",
+      "nombre": "Oracle Red Bull Racing RB18 Checo Pérez",
+      "descripcion": "Burago Rb19 Red Bull Racing Checo Pérez Formula 1 Edición 1:43",
+      "franquicia": "Fórmula 1",
+      "marca": "Burago",
+      "accesorios": "base",
+      "foto": "img/ChecoPerezRb18.png"
+    },
+    {
+      "figura_id": "5",
+      "nombre": "Patrick Mahomes",
+      "descripcion": "Figura de Patrick Mahomes de los Kansas City Chiefs",
+      "franquicia": "NFL",
+      "marca": "Game Stop",
+      "accesorios": "Casco, base",
+      "foto": "img/PatrickMahomes.png"
+    }
+  ]
+}
